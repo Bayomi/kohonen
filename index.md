@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Kohonen Map
 
-You can use the [editor on GitHub](https://github.com/Bayomi/kohonen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
 
-### Markdown
+A self-organizing map (SOM) or self-organising feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples for the dimensionality reduction. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is a combination of Kohonen Map and Feed Forward Neural Network (own implementation of both algorithms) to predict the classic MNIST numerical problem.
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
+[Github code](https://github.com/Bayomi/kohonen_map/)
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Having trouble or any doubts about the project? Do you want to contribute or see other projects? Contact me at gbayomi@gmail.com or visit my [website](http://gbayomi.com/) or [github page](https://github.com/Bayomi/).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bayomi/kohonen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
