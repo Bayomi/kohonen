@@ -9,7 +9,7 @@ This project is a combination of Kohonen Map and Feed Forward Neural Network (ow
 
 ### Links
 
-[Github code](https://github.com/Bayomi/kohonen_map/)
+[Github code](https://github.com/Bayomi/kohonen/)
 
 ### Contact
 
